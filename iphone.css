@@ -1,0 +1,242 @@
+*{   font-family: 'Karla', sans-serif;
+    margin:0;
+    padding:0;
+    
+   }
+
+.nav-list{
+    display:none;
+}
+.central-black{
+    /* display: none;
+     */
+     display: flex;
+     flex-direction: column;
+}
+
+#contact{       
+    display:block;
+    margin-left:43px;
+
+    font-size: 45px;
+    color:white;
+    font-weight: bold;
+}
+
+#contact .sales{
+    text-align: center;
+    font-size: 40px;
+    /* margin:12px; */
+}
+#upper span{
+        /* margin-top:-36px;  */
+        /* padding: 12px; */
+        font-size: 30px;
+        margin-left:25px;
+}
+#upper button{
+    margin-left: 25px;
+    width: 300px;
+}
+#thfish{
+    margin-left: 0px;
+    width: 370px;
+}
+
+
+.gradient-wali{
+    height:1230px
+}
+
+#lower .counter{
+    display: block;
+    
+    width: 95%;
+    
+}
+
+
+#lower{
+    display: flex;
+    flex-direction: column;
+}
+
+/*  */
+#fishcatcher{
+    height:1300px;
+}
+#upperfishnet{
+    width:370px;
+    margin: 3px;
+    background-position: left;
+    background-position: contain;
+}
+
+#fishnet{
+    margin: 0px;
+    width: 300px;
+}
+#about-us-box{
+    /* width:300px; */
+    display: block;
+    position: relative;
+    width: 525px;
+    height: 550px;
+    margin-top: -180px;
+}
+#bestquality{
+    display: block;
+    width: 370px;
+    font-size: 50px;    
+    margin-left: 110px;
+    text-align: right;
+    margin-right:-10px;
+    padding-left: 3px;
+
+}
+#about-us-box-text{
+    display: block;
+    text-align: right;
+    font-weight: none;
+}
+#about-list{
+    
+    justify-content: right;
+}
+
+#products-views{
+    background-image: none;
+}
+.products{
+    height: 1600px;
+}
+.products img{
+    width: 370px;
+    margin-left:0px;
+    padding:0px ;
+    margin-bottom: 100px;
+}
+
+.products-images span{
+    font-size: 20px;
+}
+#freshfish{
+    
+    position:absolute;
+    top:690px;
+    width: 374px;
+    height: 105px;
+    left:1px;
+    margin-left: 0px;
+    padding-left: 0px;
+
+}
+#seaweed{
+    position:absolute;
+    top:1090px;
+    width: 374px;
+    height: 105px;
+    left:1px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+#fishoil{
+    position:absolute;
+    top:1439px;
+    width: 374px;
+    height: 105px;
+    left:1px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+/*  */
+
+.our-stats{
+    flex-direction: column;
+}
+#right-stats{
+    /* blinear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(0, 0, 0, 0.5)
+    ) */
+    position: relative;
+    width: 370px;
+    
+}
+#right-stats img{
+    /* position: relative; */
+    width: 250px;
+    height: 170px;
+    top:145px;
+    left:1px;
+    bottom: 5px;
+}
+.testimonials{
+    height: 1400px;
+    background-repeat: repeat;
+    
+}
+.test-box{
+    flex-direction: column;
+    justify-content: start;
+    margin:0px;
+
+}
+.test-box div{
+    margin-left: -40px;
+    width: 250px;
+    padding: 0px;
+
+}
+
+/*  */
+#news-sec-button{
+    margin-left:20px;
+    margin-top:0px;
+    width: 300px;
+}
+.news-sec{
+    height: 1500px;
+}
+.split-news-sec{
+    display: flex;
+    flex-direction: column;
+
+}
+.news-desc{
+    display:none;
+}
+/* .article img{
+    display: none;
+     /* flex-direction: column; */
+.news-second-heading{
+    /* color: black; */
+    font-size: 20px;
+}   
+
+/*  */
+
+#subscribe-sec{
+    height: 300px;
+}
+#fname{
+    width:80%;
+}
+#updated-news-title{
+    padding: 5px;
+    margin: 0px;
+    font-size: 30px;
+}
+#subscribe-sec-form{
+    margin: 0px;
+    display: block;
+
+}
+#submit-email{
+    margin-top: 10px;
+    padding: 5px;
+    display:block;
+    width: 250px;
+}
+
